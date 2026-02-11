@@ -36,4 +36,4 @@ pip install pandas numpy matplotlib scikit-learn
 
 ## Step 3: Run the code
 
-Now the code
+Now run the code
