@@ -21,7 +21,7 @@ var years = ee.List.sequence(2015, 2025);
 ---
 var years = ee.List.sequence(2015, 2015);
 
----
+```
 
 ## Step 2: Python analysis in Jupyter Notebook / VS Code
 
